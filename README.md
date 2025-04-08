@@ -1,6 +1,6 @@
 # Cliente Certo
 
-Cliente Certo é um app Android para o cadastro de clientes devedores. Feito como parte do projeto de extensão da Estácio na matéria Programação Para Dispositivos Móveis em Android do curso de Análise e Desenvolvimento de Sistemas
+Cliente Certo é um app Android para o cadastro de clientes devedores. Feito como parte do projeto de extensão da Estácio na matéria Programação Para Dispositivos Móveis em Android do curso de Análise e Desenvolvimento de Sistemas pelo aluno Guilherme Marçal Silva.
 
 # Capturas de Tela
 
