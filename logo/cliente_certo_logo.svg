@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="512"
+   height="512"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   sodipodi:docname="cliente_certo_logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="1.078125"
+     inkscape:cx="233.27536"
+     inkscape:cy="261.56522"
+     inkscape:window-width="1366"
+     inkscape:window-height="761"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="stroke:none">
+    <g
+       id="g3"
+       transform="matrix(3.2965179,0,0,3.2965179,-345.05762,-311.28327)"
+       style="stroke:none">
+      <g
+         id="g4"
+         transform="translate(-7.3155413)"
+         style="stroke:none">
+        <text
+           xml:space="preserve"
+           style="font-size:192px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none"
+           x="130.67786"
+           y="239.30435"
+           id="text2"><tspan
+             sodipodi:role="line"
+             id="tspan2"
+             x="130.67786"
+             y="239.30435"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:192px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';fill:#18186a;fill-opacity:1;stroke:none">C</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:156.491px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke-width:0.815055;stroke:none"
+           x="173.63039"
+           y="211.20837"
+           id="text3"><tspan
+             sodipodi:role="line"
+             id="tspan3"
+             x="173.63039"
+             y="211.20837"
+             style="fill:#008080;stroke-width:0.815055;stroke:none">c</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

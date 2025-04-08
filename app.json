@@ -1,0 +1,59 @@
+{
+  "expo": {
+    "name": "cliente-certo",
+    "slug": "cliente-certo",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./logo/cliente_certo_logo.png",
+    "scheme": "myapp",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./logo/cliente_certo_logo.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.guima.clientecerto"
+    },
+    "web": {
+      "bundler": "metro",
+      "output": "static",
+      "favicon": "./logo/favicon.png"
+    },
+    "plugins": [
+      "expo-router",
+      [
+        "expo-splash-screen",
+        {
+          "image": "./logo/cliente_certo_logo.png",
+          "imageWidth": 200,
+          "resizeMode": "contain",
+          "backgroundColor": "#ffffff",
+          "dark": {
+            "image": "./logo/cliente_certo_logo.png",
+            "imageWidth": 200,
+            "resizeMode": "contain",
+            "backgroundColor": "#181818"
+          }
+        }
+      ]
+    ],
+    "experiments": {
+      "typedRoutes": true
+    },
+    "assetBundlePatterns": [
+      "assets/**/*"
+    ],
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "8472a1e9-2838-4689-8aaa-b65dd26dee1d"
+      }
+    }
+  }
+}
